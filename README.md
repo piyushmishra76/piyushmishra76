@@ -36,7 +36,9 @@ Here are some ideas to get you started:
 ![PowerBI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge\&logo=powerbi)
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge\&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
-![GitHub]([https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github](https://camo.githubusercontent.com/19110abd80dacd3a2b1983b13a8dd35354b1510aa8fff7b292ed3b7f51e196bc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7363696b69742d2d6c6561726e2d2532334637393331452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7363696b69742d6c6561726e266c6f676f436f6c6f723d7768697465))
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Pivot Tables](https://img.shields.io/badge/Pivot%20Tables-0078D4?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-FF6F00?style=for-the-badge)
 ---
 ## 🚀 Projects
 
